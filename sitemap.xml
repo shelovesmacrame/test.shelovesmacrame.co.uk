@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://shelovesmacrame.co.uk/portfolio/here-is-a-necklace/</loc>
+    <lastmod>2019-03-08T19:10:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shelovesmacrame.co.uk/portfolio/no-image-but-yes-to-text/</loc>
+    <lastmod>2019-03-08T18:55:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shelovesmacrame.co.uk/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shelovesmacrame.co.uk/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shelovesmacrame.co.uk/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shelovesmacrame.co.uk/portfolio/</loc>
+    <lastmod>2019-03-08T19:10:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shelovesmacrame.co.uk/</loc>
+    <lastmod>2019-03-08T19:10:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shelovesmacrame.co.uk/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
